@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  gap: 5px 5px;
+  width: 320px;
+  flex-wrap: wrap;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+}
+
+.circle {
+  position: relative;
+  top: 25%;
+  margin: auto;
+  height: 50px;
+  width: 50px;
+  border: 1px black solid;
+  border-radius: 100%;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.cred {
+  background-color: red;
+}
+
+.cblue {
+  background-color: blue;
+}
+
+.cgreen {
+  background-color: green;
+}
+
+.cyellow {
+  background-color: yellow;
+}
+
+.cblack {
+  background-color: black;
+}
+
+.corange {
+  background-color: orange;
+}
+
+.cpurple {
+  background-color: purple;
+}
+
+.cgray {
+  background-color: gray;
+}
+
+.cpink {
+  background-color: pink;
+}
